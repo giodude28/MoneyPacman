@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814882634724",
+    "project_id": "get-rich-from-home",
+    "storage_bucket": "get-rich-from-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814882634724:android:6ce95d7ce9de82c47965f1",
+        "android_client_info": {
+          "package_name": "io.giodude.moneypacman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814882634724-l00ett2otid515781ntf6sg04fut2ns6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwx5_T5T3jPmanliOtMswOV82AKMNUVaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814882634724-l00ett2otid515781ntf6sg04fut2ns6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
